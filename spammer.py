@@ -51,10 +51,10 @@
       "sky.rethinkdns.com": [
         "104.17.147.22",
         "104.17.148.22",
-        "188.114.96.1",
-        "188.114.97.1",
-        "2a06:98c1:3121::1",
-        "2a06:98c1:3120::1"
+        "2a06:98c1:3120::3",
+        "2a06:98c1:3121::3",
+        "188.114.96.3",
+        "188.114.97.3"
       ]
     },
     "independent_cache": true
@@ -114,13 +114,13 @@
       "tag": "warp-ir § 0",
       "local_address": [
         "172.16.0.2/24",
-        "2606:4700:110:8696:bcbc:80ef:281e:9ada/128"
+        "2606:4700:110:8abd:1257:a114:a227:b145/128"
       ],
-      "private_key": "gNGFVHFWfonHKVvBaAf7xzLj/gNsbe62U+e/lZ86iVE=",
-      "server": "2606:4700:d1::2dd8:cae6:54b7:497f",
-      "server_port": 3476,
+      "private_key": "eGQynMboX3+rynh97+QQW/QCm1YzrqLWvBD6F0GUHX8=",
+      "server": "2606:4700:d1::f6c5:3fa0:1fc7:7312",
+      "server_port": 5956,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": "s/dF",
+      "reserved": "+KrA",
       "mtu": 1330,
       "fake_packets": "1-5",
       "fake_packets_size": "10-30",
@@ -132,13 +132,13 @@
       "detour": "warp-ir § 0",
       "local_address": [
         "172.16.0.2/24",
-        "2606:4700:110:87ef:561a:2c5a:1174:3060/128"
+        "2606:4700:110:85c4:113c:f044:5ee7:d29/128"
       ],
-      "private_key": "KL2un5NzW5OfqlJp5jeQvppy+qRqTmT+5wpMUlxe/k8=",
-      "server": "188.114.99.16",
-      "server_port": 8854,
+      "private_key": "oFkhX5cQj+4B57wW5478KRZKaoV3l23uiwQR9+z5TF8=",
+      "server": "188.114.99.49",
+      "server_port": 3854,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": "nocD",
+      "reserved": "kbvz",
       "mtu": 1280
     },
     {
@@ -220,7 +220,7 @@
     },
     "clash_api": {
       "external_controller": "127.0.0.1:16756",
-      "secret": "fEKPHIUAYyA_LHpq"
+      "secret": "FJ07TVq4ucWQ21a0"
     }
   }
 }
